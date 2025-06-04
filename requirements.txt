@@ -1,0 +1,10 @@
+computer_costs/
+│
+├── app.py              # Основной файл приложения
+├── requirements.txt    # Зависимости
+└── templates/
+    └── index.html      # HTML-шаблон
+В app.py
+pip install flask flask-sqlalchemy
+запустить код 
+Откройте браузер и перейдите по адресу: http://127.0.0.1:5000/
